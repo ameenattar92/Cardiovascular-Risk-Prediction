@@ -54,6 +54,6 @@ In all of these models our accuracy revolves in the range of 66 to 97%.
 
 And there is no such improvement in accuracy score even after hyperparameter tuning.
 
-So the accuracy of our best model is 97% which can be said to be good for this large dataset.
+So the accuracy of our best model is 97% for XGboost which can be said to be good for this large dataset.
 
-This performance could be due to various reasons like: no proper pattern of data, too much data, not enough relevant features but maybe with enough data we can train out model even better.
+This performance could be due to various reasons like: no proper pattern of data, lack of data, not enough relevant features but maybe with enough data we can train out model even better.
