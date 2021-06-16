@@ -50,7 +50,7 @@ Conclusion:-
 
 Starting with loading the data so far we have done EDA , null values treatment, encoding of categorical columns, feature selection and then model building.
 
-In all of these models our accuracy revolves in the range of 66 to 97%.
+In all of these models our accuracy revolves in the range of 75 to 97%.
 
 And there is no such improvement in accuracy score even after hyperparameter tuning.
 
